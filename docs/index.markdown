@@ -3,15 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:  "MP Twitter bio analysis"
-date:   2023-06-26
 ---
 
 Inspired by [this thread](https://twitter.com/carolvorders/status/1642879704787984385), we wanted to find out how many MPs are willing to admit which party they belong to.
 
 The results are in!
 
-| Party | # MPs | # proud MPs on Twitter | # shy MPs on Twitter | # MPs not on Twitter <!--auto-gen-begin-->
+| Party | # MPs | # proud MPs | # shy MPs | # MPs not on Twitter <!--auto-gen-begin-->
 | - | - | - | - | - |
 | __Conservative__ | 352 | 119 | 158 | 75 |
 | __Labour__ | 195 | 160 | 25 | 10 |
