@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "MP Twitter bio analysis"
 date:   2023-06-26
 categories: twitter
