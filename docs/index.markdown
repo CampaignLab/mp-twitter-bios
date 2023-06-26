@@ -9,7 +9,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 The results are in!
 
-| Party | # MPs | # proud MPs | # shy MPs | # MPs not on Twitter <!--auto-gen-begin-->
+| Party | Total MPs | Proud MPs | Shy MPs | MPs not on Twitter <!--auto-gen-begin-->
 | - | - | - | - | - |
 | __Conservative__ | 352 | 119 | 158 | 75 |
 | __Labour__ | 195 | 160 | 25 | 10 |
