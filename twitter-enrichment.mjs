@@ -36,7 +36,7 @@ function delay(time) {
         try {
             await page.goto(`https://twitter.com/${member.twitterUsername}`)
             json = await page.locator("script[data-testid=UserProfileSchema-test]").innerText({
-                timeout: 1000
+                timeout: 2000
             })
         } catch (error) {
             console.log(error);
@@ -44,7 +44,7 @@ function delay(time) {
                 let errorText;
                 try {
                     errorText = await page.locator("div[data-testid=empty_state_header_text]").innerText({
-                        timeout: 1000
+                        timeout: 2000
                     });
                 } catch (error) {
                     console.log(error);
