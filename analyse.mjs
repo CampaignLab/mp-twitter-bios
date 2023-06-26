@@ -43,8 +43,8 @@ import { createReadStream } from 'fs';
 
     Object.keys(results).forEach(party => {
         console.log(party);
-        console.log(results[party].proud.length);
-        console.log(results[party].shy.length);
-        console.log(results[party].invisible.length);
+        console.log("proud", results[party].proud.length);
+        console.log("shy", results[party].shy.length);
+        console.log("awol", results[party].invisible.length);
     });
 })();
