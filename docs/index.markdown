@@ -5,9 +5,15 @@
 layout: home
 ---
 
-Inspired by [this thread](https://twitter.com/carolvorders/status/1642879704787984385), we wanted to find out how many MPs are willing to admit which party they belong to.
+## Introduction
 
-The results are in!
+How many MPs are willing to admit which party they belong to?  Do the MPs of some parties take more pride in their party than others?  We crunched the bios to find out.
+
+Inspired by [this thread](https://twitter.com/carolvorders/status/1642879704787984385).
+
+## Table of contents
+
+## Summary
 
 | Party | Total MPs | Proud MPs | Shy MPs | MPs not on Twitter <!--auto-gen-begin-->
 | - | - | - | - | - |
@@ -24,3 +30,13 @@ The results are in!
 | __Green Party__ | 1 | 1 | 0 | 0 |
 | __The Reclaim Party__ | 1 | 1 | 0 | 0 |
 <!--auto-gen-end-->
+
+## Results
+
+## Methodology
+
+## Sources
+
+## Continuing to monitor this
+
+Are MPs defined by their parties or their individual name recognition?
