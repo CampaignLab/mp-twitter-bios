@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-06-26 21:54:08 +0100
-categories: jekyll update
+title:  "MP Twitter bio analysis"
+date:   2023-06-26
+categories: twitter
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Inspired by [this thread](https://twitter.com/carolvorders/status/1642879704787984385), we wanted to find out how many MPs are willing to admit which party they belong to.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The results are in!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+| Party | # MPs | # proud MPs on Twitter | # shy MPs on Twitter | # MPs not on Twitter <!--auto-gen-begin-->
+| - | - | - | - | - |
+| Conservative | 352 | 119 | 158 | 75 |
+| Labour | 195 | 160 | 25 | 10 |
+| Scottish National Party | 45 | 34 | 10 | 1 |
+| Liberal Democrat | 14 | 14 | 0 | 0 |
+| Democratic Unionist Party | 8 | 5 | 1 | 2 |
+| Sinn Féin | 7 | 4 | 2 | 1 |
+| Plaid Cymru | 3 | 2 | 1 | 0 |
+| Alba Party | 2 | 1 | 1 | 0 |
+| Social Democratic & Labour Party | 2 | 1 | 1 | 0 |
+| Alliance | 1 | 1 | 0 | 0 |
+| Green Party | 1 | 1 | 0 | 0 |
+| The Reclaim Party | 1 | 1 | 0 | 0 |
+<!--auto-gen-end-->
