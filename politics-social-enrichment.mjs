@@ -35,7 +35,6 @@ import {mkdirSync, writeFileSync} from 'fs';
             } else if (member.twitterUsername?.toLowerCase() === candidate["Screen name"].split("@")[1].toLowerCase()) {
                 return true;
             } else if (member.constituency === candidate.Constituency && compare(member.name, candidate.Name) > 0.2) {
-                // console.log(member.name, candidate.Name, compare(member.name, candidate.Name));
                 return true;
             } else {
                 return false;
@@ -77,4 +76,3 @@ function compare(name1, name2) {
 
     return score / (name1Parts.length + name2Parts.length);
 }
-
