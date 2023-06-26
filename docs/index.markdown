@@ -13,16 +13,16 @@ The results are in!
 
 | Party | # MPs | # proud MPs on Twitter | # shy MPs on Twitter | # MPs not on Twitter <!--auto-gen-begin-->
 | - | - | - | - | - |
-| Conservative | 352 | 119 | 158 | 75 |
-| Labour | 195 | 160 | 25 | 10 |
-| Scottish National Party | 45 | 34 | 10 | 1 |
-| Liberal Democrat | 14 | 14 | 0 | 0 |
-| Democratic Unionist Party | 8 | 5 | 1 | 2 |
-| Sinn Féin | 7 | 4 | 2 | 1 |
-| Plaid Cymru | 3 | 2 | 1 | 0 |
-| Alba Party | 2 | 1 | 1 | 0 |
-| Social Democratic & Labour Party | 2 | 1 | 1 | 0 |
-| Alliance | 1 | 1 | 0 | 0 |
-| Green Party | 1 | 1 | 0 | 0 |
-| The Reclaim Party | 1 | 1 | 0 | 0 |
+| __Conservative__ | 352 | 119 | 158 | 75 |
+| __Labour__ | 195 | 160 | 25 | 10 |
+| __Scottish National Party__ | 45 | 34 | 10 | 1 |
+| __Liberal Democrat__ | 14 | 14 | 0 | 0 |
+| __Democratic Unionist Party__ | 8 | 5 | 1 | 2 |
+| __Sinn Féin__ | 7 | 4 | 2 | 1 |
+| __Plaid Cymru__ | 3 | 2 | 1 | 0 |
+| __Alba Party__ | 2 | 1 | 1 | 0 |
+| __Social Democratic & Labour Party__ | 2 | 1 | 1 | 0 |
+| __Alliance__ | 1 | 1 | 0 | 0 |
+| __Green Party__ | 1 | 1 | 0 | 0 |
+| __The Reclaim Party__ | 1 | 1 | 0 | 0 |
 <!--auto-gen-end-->

@@ -75,12 +75,12 @@ import { createReadStream, readFile, writeFile } from 'fs';
             console.log("shy", results[party].shy.length);
             console.log("awol", results[party].invisible.length);
 
-            outputString += `| ${party} | ${results[party].total} | ${results[party].proud.length} | ${results[party].shy.length} | ${results[party].invisible.length} |\n`;
+            outputString += `| __${party}__ | ${results[party].total} | ${results[party].proud.length} | ${results[party].shy.length} | ${results[party].invisible.length} |\n`;
         });
 
     console.log(outputString);
 
-    readFile('./README.md', 'utf8', function (err,data) {
+    readFile('./docs/index.markdown', 'utf8', function (err,data) {
         console.log(err);
         const startComment = "<!--auto-gen-begin-->";
         const endComment = "<!--auto-gen-end-->";
@@ -88,7 +88,7 @@ import { createReadStream, readFile, writeFile } from 'fs';
         const endIndex = data.indexOf(endComment);
         const updatedData = data.substring(0, startIndex + startComment.length) + outputString + data.substring(endIndex);
         
-        writeFile('./README.md', updatedData, 'utf8', function (err) {
+        writeFile('./docs/index.markdown', updatedData, 'utf8', function (err) {
             console.log(err);
         });
     });
