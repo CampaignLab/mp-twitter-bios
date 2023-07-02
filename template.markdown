@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 # Which MPs mention their party in their Twitter bio?
 
 ## Summary
@@ -32,14 +25,22 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 ## Methodology
 
 Parliament's members API was first used to source all MPs and their current party, and for those that have chosen to submit the information to Parliament's IT team, their Twitter usernames.
-Next this data is enriched with information from politics social's curated list of MP usernames.  This provides some MP twitter usernames that aren't available from Parliament's members API.
-For each MP, we then load their profile on Twitter and retrieve the text of their biography.  At this stage, if an MP's username isn't we valid, we update the entry we hold for them to reflect that they don't currently have a Twitter account.
-Finally, we calculate the breakdown of MPs that do or don't mention their party in their bio or don't have a Twitter account, broken down by party.
+
+Next this data is enriched with information from Politics Social's curated list of MP Twitter usernames.  This provides some usernames that aren't available from Parliament's members API.
+
+For each MP, we then loaded their profile on Twitter and retrieved the text of their biography.  At this stage, if an MP's username wasn't valid, we updated their record to reflect that they don't currently have a Twitter account.
+
+Finally, we count of MPs that do or don't mention their party in their bio or don't have a Twitter account, broken down by party.
 
 ## Discussion
 
-Next steps could be to investigate whether there is a correlation between some characteristic of these MPs and their likelihood to mention their party in their bio.  For example, belonging to a particular bloc, joining parliament at a specifi election, or membership/participation in other organisations.
-We could xplore how this has changed in the past, which will need access to some kind of archive which may not exist.  We can track this going forward to see how it changes.
+Next steps could be to investigate whether there is a correlation between some characteristic of these MPs and their likelihood to mention their party in their bio.  For example:
+  - MPs belonging to a particular bloc (e.g. 1922 committee)
+  - Joining parliament at a specific election
+  - Membership/participation in other organisations
+  - MPs' majorities
+
+We could explore how this has changed in the past, which will need access to some kind of archive which may not exist.  We can track this going forward to see how it changes.
 
 What does this tell us about whether MPs are defined by their parties or by their individual name recognition?
 

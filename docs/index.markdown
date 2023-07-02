@@ -11,14 +11,14 @@ layout: home
 
 We analysed the Twitter biographies of each MP to see whether they mentioned their political party.  A summary of the results for all parties with 10 or more MPs are as follows:
 
-<!--summary-auto-gen-begin-->
+
 | Party | # of MPs | # of MPs mentioning their party | # of MPs not mentioning their party | # of MPs not on Twitter |
 | - | - | - | - | - |
 | Conservative | 352 | 119 | 158 | 75 |
 | Labour | 195 | 162 | 23 | 10 |
 | Scottish National Party | 45 | 34 | 10 | 1 |
 | Liberal Democrat | 14 | 14 | 0 | 0 |
-<!--summary-auto-gen-end-->
+
 
 If something doesn't look right, please get in touch by raising a ticket [here](https://github.com/12v/mp-twitter-bios/issues).
 
@@ -32,7 +32,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ## Results
 
-<!--results-auto-gen-begin-->
+
 <details>
 <summary>Conservative</summary>
 
@@ -899,19 +899,27 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 </details>
-<br><!--results-auto-gen-end-->
+<br>
 
 ## Methodology
 
 Parliament's members API was first used to source all MPs and their current party, and for those that have chosen to submit the information to Parliament's IT team, their Twitter usernames.
-Next this data is enriched with information from politics social's curated list of MP usernames.  This provides some MP twitter usernames that aren't available from Parliament's members API.
-For each MP, we then load their profile on Twitter and retrieve the text of their biography.  At this stage, if an MP's username isn't we valid, we update the entry we hold for them to reflect that they don't currently have a Twitter account.
-Finally, we calculate the breakdown of MPs that do or don't mention their party in their bio or don't have a Twitter account, broken down by party.
+
+Next this data is enriched with information from Politics Social's curated list of MP Twitter usernames.  This provides some usernames that aren't available from Parliament's members API.
+
+For each MP, we then loaded their profile on Twitter and retrieved the text of their biography.  At this stage, if an MP's username wasn't valid, we updated their record to reflect that they don't currently have a Twitter account.
+
+Finally, we count of MPs that do or don't mention their party in their bio or don't have a Twitter account, broken down by party.
 
 ## Discussion
 
-Next steps could be to investigate whether there is a correlation between some characteristic of these MPs and their likelihood to mention their party in their bio.  For example, belonging to a particular bloc, joining parliament at a specifi election, or membership/participation in other organisations.
-We could xplore how this has changed in the past, which will need access to some kind of archive which may not exist.  We can track this going forward to see how it changes.
+Next steps could be to investigate whether there is a correlation between some characteristic of these MPs and their likelihood to mention their party in their bio.  For example:
+  - MPs belonging to a particular bloc (e.g. 1922 committee)
+  - Joining parliament at a specific election
+  - Membership/participation in other organisations
+  - MPs' majorities
+
+We could explore how this has changed in the past, which will need access to some kind of archive which may not exist.  We can track this going forward to see how it changes.
 
 What does this tell us about whether MPs are defined by their parties or by their individual name recognition?
 
