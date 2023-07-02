@@ -38,7 +38,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Conservative
 <details>
-<summary>Proud (119)</summary>
+<summary>Proud (119 of 352)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -164,7 +164,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (158)</summary>
+<summary>Shy (158 of 352)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -329,7 +329,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Not on Twitter (75)</summary>
+<summary>Not on Twitter (75 of 352)</summary>
 
 | Name | Constituency |
 | - | - |
@@ -415,7 +415,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Labour
 <details>
-<summary>Proud (162)</summary>
+<summary>Proud (162 of 195)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -584,7 +584,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (23)</summary>
+<summary>Shy (23 of 195)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -614,7 +614,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Not on Twitter (10)</summary>
+<summary>Not on Twitter (10 of 195)</summary>
 
 | Name | Constituency |
 | - | - |
@@ -635,7 +635,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Scottish National Party
 <details>
-<summary>Proud (34)</summary>
+<summary>Proud (34 of 45)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -676,7 +676,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (10)</summary>
+<summary>Shy (10 of 45)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -693,7 +693,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Not on Twitter (1)</summary>
+<summary>Not on Twitter (1 of 45)</summary>
 
 | Name | Constituency |
 | - | - |
@@ -705,7 +705,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Liberal Democrat
 <details>
-<summary>Proud (14)</summary>
+<summary>Proud (14 of 14)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -730,7 +730,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Democratic Unionist Party
 <details>
-<summary>Proud (5)</summary>
+<summary>Proud (5 of 8)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -742,7 +742,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (1)</summary>
+<summary>Shy (1 of 8)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -750,7 +750,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Not on Twitter (2)</summary>
+<summary>Not on Twitter (2 of 8)</summary>
 
 | Name | Constituency |
 | - | - |
@@ -763,7 +763,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Sinn Féin
 <details>
-<summary>Proud (4)</summary>
+<summary>Proud (4 of 7)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -774,7 +774,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (2)</summary>
+<summary>Shy (2 of 7)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -783,7 +783,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Not on Twitter (1)</summary>
+<summary>Not on Twitter (1 of 7)</summary>
 
 | Name | Constituency |
 | - | - |
@@ -795,7 +795,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Plaid Cymru
 <details>
-<summary>Proud (2)</summary>
+<summary>Proud (2 of 3)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -804,7 +804,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (1)</summary>
+<summary>Shy (1 of 3)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -816,7 +816,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Alba Party
 <details>
-<summary>Proud (1)</summary>
+<summary>Proud (1 of 2)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -824,7 +824,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (1)</summary>
+<summary>Shy (1 of 2)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -836,7 +836,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Social Democratic & Labour Party
 <details>
-<summary>Proud (1)</summary>
+<summary>Proud (1 of 2)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -844,7 +844,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 <details>
-<summary>Shy (1)</summary>
+<summary>Shy (1 of 2)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -856,7 +856,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Alliance
 <details>
-<summary>Proud (1)</summary>
+<summary>Proud (1 of 1)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -868,7 +868,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### Green Party
 <details>
-<summary>Proud (1)</summary>
+<summary>Proud (1 of 1)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |
@@ -880,7 +880,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ### The Reclaim Party
 <details>
-<summary>Proud (1)</summary>
+<summary>Proud (1 of 1)</summary>
 
 | Name | Constituency | Bio |
 | - | - | - |

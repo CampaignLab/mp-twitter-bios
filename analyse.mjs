@@ -86,34 +86,32 @@ const sanitiseDescription = (description) =>
         .replaceAll("\n", "<br>")
         .replaceAll("|", "\|");
 
-const renderResultsTable = (description, mpList) => {
+const renderDetails = (summary, details) =>
+    `<details>
+<summary>${summary}</summary>
+
+${details}
+</details>
+`;
+
+const renderResultsTable = (description, mpList, total) => {
     let outputString = "| Name | Constituency | Bio |\n";
     outputString += "| - | - | - |\n";
     mpList.forEach(mp => {
         outputString += `| [${mp.name}](https://twitter.com/${mp.twitterUsername}) | ${mp.constituency} | ${sanitiseDescription(mp.description)} |\n`;
     });
 
-    return `<details>
-<summary>${description} (${mpList.length})</summary>
-
-${outputString}
-</details>
-`;
+    return renderDetails(`${description} (${mpList.length} of ${total})`, outputString);
 }
 
-const renderTwitterlessResultsTable = (description, mpList) => {
+const renderTwitterlessResultsTable = (description, mpList, total) => {
     let outputString = "| Name | Constituency |\n";
     outputString += "| - | - |\n";
     mpList.forEach(mp => {
         outputString += `| ${mp.name} | ${mp.constituency} |\n`;
     });
 
-    return `<details>
-<summary>${description} (${mpList.length})</summary>
-
-${outputString}
-</details>
-`;
+    return renderDetails(`${description} (${mpList.length} of ${total})`, outputString);
 }
 
 partiesSortedBySize
@@ -121,16 +119,18 @@ partiesSortedBySize
         resultsString += "\n";
         resultsString += `### ${party}\n`;
 
+        const totalCount = results[party].total;
+
         if (results[party].proud.length) {
-            resultsString += renderResultsTable("Proud", results[party].proud);
+            resultsString += renderResultsTable("Proud", results[party].proud, totalCount);
         }
 
         if (results[party].shy.length) {
-            resultsString += renderResultsTable("Shy", results[party].shy);
+            resultsString += renderResultsTable("Shy", results[party].shy, totalCount);
         }
 
         if (results[party].invisible.length) {
-            resultsString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible);
+            resultsString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible, totalCount);
         }
 
         resultsString += "\n";
