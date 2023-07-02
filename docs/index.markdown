@@ -5,9 +5,7 @@
 layout: home
 ---
 
-## Title
-
-Determining which MPs mention their party in their Twitter bios
+# Which MPs mention their party in their Twitter bio?
 
 ## Summary
 
