@@ -35,8 +35,9 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 ## Results
 
 <!--results-auto-gen-begin-->
+<details>
+<summary>Conservative</summary>
 
-### Conservative
 <details>
 <summary>Proud (119 of 352)</summary>
 
@@ -411,9 +412,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Labour</summary>
 
-### Labour
 <details>
 <summary>Proud (162 of 195)</summary>
 
@@ -631,9 +633,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Scottish National Party</summary>
 
-### Scottish National Party
 <details>
 <summary>Proud (34 of 45)</summary>
 
@@ -701,9 +704,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Liberal Democrat</summary>
 
-### Liberal Democrat
 <details>
 <summary>Proud (14 of 14)</summary>
 
@@ -726,9 +730,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Democratic Unionist Party</summary>
 
-### Democratic Unionist Party
 <details>
 <summary>Proud (5 of 8)</summary>
 
@@ -759,9 +764,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Sinn Féin</summary>
 
-### Sinn Féin
 <details>
 <summary>Proud (4 of 7)</summary>
 
@@ -791,9 +797,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Plaid Cymru</summary>
 
-### Plaid Cymru
 <details>
 <summary>Proud (2 of 3)</summary>
 
@@ -812,9 +819,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Alba Party</summary>
 
-### Alba Party
 <details>
 <summary>Proud (1 of 2)</summary>
 
@@ -832,9 +840,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Social Democratic & Labour Party</summary>
 
-### Social Democratic & Labour Party
 <details>
 <summary>Proud (1 of 2)</summary>
 
@@ -852,9 +861,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Alliance</summary>
 
-### Alliance
 <details>
 <summary>Proud (1 of 1)</summary>
 
@@ -864,9 +874,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>Green Party</summary>
 
-### Green Party
 <details>
 <summary>Proud (1 of 1)</summary>
 
@@ -876,9 +887,10 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
+</details>
+<br><details>
+<summary>The Reclaim Party</summary>
 
-### The Reclaim Party
 <details>
 <summary>Proud (1 of 1)</summary>
 
@@ -888,8 +900,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br>
-<!--results-auto-gen-end-->
+</details>
+<br><!--results-auto-gen-end-->
 
 ## Methodology
 

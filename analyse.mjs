@@ -116,26 +116,25 @@ const renderTwitterlessResultsTable = (description, mpList, total) => {
 
 partiesSortedBySize
     .forEach(party => {
-        resultsString += "\n";
-        resultsString += `### ${party}\n`;
+        let partyString = "";
 
         const totalCount = results[party].total;
 
         if (results[party].proud.length) {
-            resultsString += renderResultsTable("Proud", results[party].proud, totalCount);
+            partyString += renderResultsTable("Proud", results[party].proud, totalCount);
         }
 
         if (results[party].shy.length) {
-            resultsString += renderResultsTable("Shy", results[party].shy, totalCount);
+            partyString += renderResultsTable("Shy", results[party].shy, totalCount);
         }
 
         if (results[party].invisible.length) {
-            resultsString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible, totalCount);
+            partyString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible, totalCount);
         }
 
-        resultsString += "\n";
+        resultsString += renderDetails(party, partyString);
+
         resultsString += "<br>";
-        resultsString += "\n";
     });
 
 let markdownString = readFileSync('./template.markdown', 'utf8');
