@@ -138,7 +138,7 @@ partiesSortedBySize
         resultsString += "\n";
     });
 
-let markdownString = readFileSync('./docs/index.markdown', 'utf8');
+let markdownString = readFileSync('./template.markdown', 'utf8');
 
 markdownString = updateMarkdown(markdownString, "<!--summary-auto-gen-begin-->", "<!--summary-auto-gen-end-->", summaryString);
 markdownString = updateMarkdown(markdownString, "<!--results-auto-gen-begin-->", "<!--results-auto-gen-end-->", resultsString);
