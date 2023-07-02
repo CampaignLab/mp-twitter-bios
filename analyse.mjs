@@ -130,6 +130,8 @@ ${outputString}
             if (results[party].invisible.length) {
                 resultsString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible);
             }
+
+            resultsString += "\n";
         });
 
     readFile('./docs/index.markdown', 'utf8', function (err, data) {
