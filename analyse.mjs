@@ -60,33 +60,89 @@ import { createReadStream, readFile, writeFile } from 'fs';
         }
     });
 
-    let outputString = "\n";
-    outputString += "| - | - | - | - | - |\n";
+    let summaryString = "\n";
+    summaryString += "| Party | Total | Proud | Shy | Invisible |\n";
+    summaryString += "| - | - | - | - | - |\n";
 
-    Object.keys(results)
+    const sortedParties = Object.keys(results)
         .sort((a, b) => {
             const size = results[b].total - results[a].total;
             return size !== 0 ? size : a.localeCompare(b);
-        })
-        .forEach(party => {
-            console.log(party);
-            console.log("total", results[party].total);
-            console.log("proud", results[party].proud.length);
-            console.log("shy", results[party].shy.length);
-            console.log("awol", results[party].invisible.length);
-
-            outputString += `| __${party}__ | ${results[party].total} | ${results[party].proud.length} | ${results[party].shy.length} | ${results[party].invisible.length} |\n`;
         });
 
-    console.log(outputString);
+    sortedParties
+        .filter(party => results[party].total > 9)
+        .forEach(party => {
+            summaryString += `| __${party}__ | ${results[party].total} | ${results[party].proud.length} | ${results[party].shy.length} | ${results[party].invisible.length} |\n`;
+        });
 
-    readFile('./docs/index.markdown', 'utf8', function (err,data) {
+    let resultsString = "\n";
+    // resultsString += "| Party | Total | Proud | Shy | Invisible |\n";
+    // resultsString += "| - | - | - | - | - |\n";
+
+    const sanitiseDescription = (description) =>
+        description
+            .replaceAll("\n", "<br>")
+            .replaceAll("|", "\|");
+
+    const renderResultsTable = (description, mpList) => {
+        let outputString = `#### ${description} (${mpList.length})\n`;
+        outputString += "| Name | Constituency | Bio |\n";
+        outputString += "| - | - | - |\n";
+        mpList.forEach(mp => {
+            outputString += `| [${mp.name}](https://twitter.com/${mp.twitterUsername}) | ${mp.constituency} | ${sanitiseDescription(mp.description)} |\n`;
+        });
+
+        return outputString;
+    }
+
+    const renderTwitterlessResultsTable = (description, mpList) => {
+        let outputString = `#### ${description} (${mpList.length})\n`;
+        outputString += "| Name | Constituency |\n";
+        outputString += "| - | - |\n";
+        mpList.forEach(mp => {
+            outputString += `| ${mp.name} | ${mp.constituency} |\n`;
+        });
+
+        return outputString;
+    }
+
+
+    sortedParties
+        .forEach(party => {
+            resultsString += "\n";
+            resultsString += `### ${party}\n`;
+
+            if (results[party].proud.length) {
+                resultsString += renderResultsTable("Proud", results[party].proud);
+            }
+
+            if (results[party].shy.length) {
+                resultsString += renderResultsTable("Shy", results[party].shy);
+            }
+
+            if (results[party].invisible.length) {
+                resultsString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible);
+            }
+        });
+
+    readFile('./docs/index.markdown', 'utf8', function (err, data) {
         console.log(err);
-        const startComment = "<!--auto-gen-begin-->";
-        const endComment = "<!--auto-gen-end-->";
-        const startIndex = data.indexOf(startComment);
-        const endIndex = data.indexOf(endComment);
-        const updatedData = data.substring(0, startIndex + startComment.length) + outputString + data.substring(endIndex);
+        let updatedData = data;
+
+        const updateMarkdown = (startComment, endComment, newContent) => {
+            const startIndex = data.indexOf(startComment);
+            const endIndex = data.indexOf(endComment);
+
+            if (startIndex === -1 || endIndex === -1) {
+                throw new Error("Couldn't find start or end comment");
+            }
+
+            updatedData = updatedData.substring(0, startIndex + startComment.length) + newContent + updatedData.substring(endIndex);
+        }
+
+        updateMarkdown("<!--summary-auto-gen-begin-->", "<!--summary-auto-gen-end-->", summaryString);
+        updateMarkdown("<!--results-auto-gen-begin-->", "<!--results-auto-gen-end-->", resultsString);
         
         writeFile('./docs/index.markdown', updatedData, 'utf8', function (err) {
             console.log(err);
