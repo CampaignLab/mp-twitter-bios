@@ -404,6 +404,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Labour
 <details>
 <summary>Proud (162)</summary>
@@ -623,6 +624,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Scottish National Party
 <details>
 <summary>Proud (34)</summary>
@@ -692,6 +694,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Liberal Democrat
 <details>
 <summary>Proud (14)</summary>
@@ -714,6 +717,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Munira Wilson](https://twitter.com/munirawilson) | Twickenham | MP for Twickenham. Lib Dem Education Spokesperson. Please email me on munira.wilson.mp@parliament.uk if you require a reply. |
 
 </details>
+
 
 
 ### Democratic Unionist Party
@@ -748,6 +752,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Sinn Féin
 <details>
 <summary>Proud (4)</summary>
@@ -779,6 +784,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Plaid Cymru
 <details>
 <summary>Proud (2)</summary>
@@ -797,6 +803,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Ben Lake](https://twitter.com/BenMLake) | Ceredigion | Aelod Seneddol Ceredigion | Member of Parliament for Ceredigion | ben.lake.mp@parliament.uk 🏴󠁧󠁢󠁷󠁬󠁳󠁿 |
 
 </details>
+
 
 
 ### Alba Party
@@ -818,6 +825,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Social Democratic & Labour Party
 <details>
 <summary>Proud (1)</summary>
@@ -837,6 +845,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### Alliance
 <details>
 <summary>Proud (1)</summary>
@@ -846,6 +855,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Stephen Farry](https://twitter.com/StephenFarryMP) | North Down | Deputy Leader of @AllianceParty | MP for North Down | Westminster updates: @AlliancePartyUK | Constituency enquiries: stephen.farry.mp@parliament.uk |
 
 </details>
+
 
 
 ### Green Party
@@ -859,6 +869,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 </details>
 
 
+
 ### The Reclaim Party
 <details>
 <summary>Proud (1)</summary>
@@ -868,6 +879,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Andrew Bridgen](https://twitter.com/ABridgen) | North West Leicestershire | Member of Parliament for North West Leicestershire. Any policy queries please send to andrew@andrewbridgen.com <br>Member of @thereclaimparty |
 
 </details>
+
 
 <!--results-auto-gen-end-->
 
