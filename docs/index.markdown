@@ -403,7 +403,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Labour
 <details>
 <summary>Proud (162)</summary>
@@ -622,7 +623,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Scottish National Party
 <details>
 <summary>Proud (34)</summary>
@@ -691,7 +693,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Liberal Democrat
 <details>
 <summary>Proud (14)</summary>
@@ -715,7 +718,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Democratic Unionist Party
 <details>
 <summary>Proud (5)</summary>
@@ -747,7 +751,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Sinn Féin
 <details>
 <summary>Proud (4)</summary>
@@ -778,7 +783,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Plaid Cymru
 <details>
 <summary>Proud (2)</summary>
@@ -798,7 +804,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Alba Party
 <details>
 <summary>Proud (1)</summary>
@@ -817,7 +824,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Social Democratic & Labour Party
 <details>
 <summary>Proud (1)</summary>
@@ -836,7 +844,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Alliance
 <details>
 <summary>Proud (1)</summary>
@@ -847,7 +856,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### Green Party
 <details>
 <summary>Proud (1)</summary>
@@ -858,7 +868,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/>
+<br>
+
 ### The Reclaim Party
 <details>
 <summary>Proud (1)</summary>
@@ -869,7 +880,8 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 </details>
 
-<br/><!--results-auto-gen-end-->
+<br>
+<!--results-auto-gen-end-->
 
 ## Methodology
 
