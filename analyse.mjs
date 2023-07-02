@@ -132,7 +132,7 @@ ${outputString}
             }
 
             resultsString += "\n";
-            resultsString += "\n";
+            resultsString += "<br/>";
         });
 
     readFile('./docs/index.markdown', 'utf8', function (err, data) {
