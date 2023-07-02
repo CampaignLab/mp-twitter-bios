@@ -4,8 +4,7 @@
 
 We analysed the Twitter biographies of each MP to see whether they mentioned their political party.  A summary of the results for all parties with 10 or more MPs are as follows:
 
-<!--summary-auto-gen-begin-->
-<!--summary-auto-gen-end-->
+<!--summary-auto-gen-->
 
 If something doesn't look right, please get in touch by raising a ticket [here](https://github.com/12v/mp-twitter-bios/issues).
 
@@ -19,8 +18,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 
 ## Results
 
-<!--results-auto-gen-begin-->
-<!--results-auto-gen-end-->
+<!--results-auto-gen-->
 
 ## Methodology
 
