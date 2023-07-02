@@ -29,7 +29,9 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 <!--results-auto-gen-begin-->
 
 ### Conservative
-#### Proud (119)
+<details>
+<summary>Proud (119)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Nickie Aiken](https://twitter.com/twocitiesnickie) | Cities of London and Westminster | MP for Cities of #London & #Westminster @UKParliament. Deputy Chairman @conservatives Ask questions or raise issues at: nickie.aiken.mp@parliament.uk |
@@ -151,7 +153,11 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Mr Robin Walker](https://twitter.com/walkerworcester) | Worcester | One Nation Tory. Worcester MP since 2010 speaking up 4 schools & skills Chair of @commonsed Former Minister at Dexeu, NIO & DFE. Warriors & WorcsCCC fan |
 | [Matt Warman](https://twitter.com/mattwarman) | Boston and Skegness | Member of Parliament for Boston & Skegness. Former DCMS minister and even more former Technology Editor, Daily Telegraph. Conservative. |
 | [Sir John Whittingdale](https://twitter.com/jwhittingdale) | Maldon | Conservative Member of Parliament for Maldon; Minister for Media,Creative Industries and Tourism DCMS; Minister for Data and Digital Infrastructure DSIT |
-#### Shy (158)
+
+</details>
+<details>
+<summary>Shy (158)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Bim Afolami](https://twitter.com/BimAfolami) | Hitchin and Harpenden | Father to three boys. Husband to Hetti. MP for #Hitchin & #Harpenden. |
@@ -312,7 +318,11 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Mr William Wragg](https://twitter.com/william_wragg) | Hazel Grove | MP for the Hazel Grove constituency. @CommonsPACAC chairman. For advice & queries please email william@williamwragg.org.uk or telephone 0161 427 0660 |
 | [Jacob Young](https://twitter.com/jacobyoungmp) | Redcar | Teessider & Yorkshireman. Member of Parliament in Redcar & Cleveland (inc. TS6, TS10, TS11 & Ormesby). For a response, email: office@jacobyoung.org.uk |
 | [Nadhim Zahawi](https://twitter.com/nadhimzahawi) | Stratford-on-Avon | Husband. Dad. Member of Parliament for Stratford-on-Avon. |
-#### Not on Twitter (75)
+
+</details>
+<details>
+<summary>Not on Twitter (75)</summary>
+
 | Name | Constituency |
 | - | - |
 | Edward Argar | Charnwood |
@@ -391,8 +401,12 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | Sir Gavin Williamson | South Staffordshire |
 | Sir Jeremy Wright | Kenilworth and Southam |
 
+</details>
+
 ### Labour
-#### Proud (162)
+<details>
+<summary>Proud (162)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Debbie Abrahams](https://twitter.com/Debbie_abrahams) | Oldham East and Saddleworth | Labour MP for Oldham East & Saddleworth. 🌹 Former Public Health consultant. Fellow of the Faculty of Public Health. For support, email abrahamsd@parliament.uk |
@@ -557,7 +571,11 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Nadia Whittome](https://twitter.com/NadiaWhittomeMP) | Nottingham East | Proud to represent my home city as the Labour MP for Nottingham East • UK’s youngest MP • @CommonsLUHC member • she/her 🏳️‍🌈🌹🏹 |
 | [Beth Winter](https://twitter.com/BethWinterMP) | Cynon Valley | I am the Labour MP for my home constituency of Cynon Valley.<br><br>#VoiceForOurValleys |
 | [Daniel Zeichner](https://twitter.com/danielzeichner) | Cambridge | Cambridge MP. @UKLabour Shadow Minister. Love music at @kettlesyard, sport (@CambridgeUtdFC ST holder) & outdoors. For reply email: daniel@danielzeichner.co.uk |
-#### Shy (23)
+
+</details>
+<details>
+<summary>Shy (23)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Tonia Antoniazzi](https://twitter.com/ToniaAntoniazzi) | Gower | MP for Gower 🌹. Shadow Minister for Northern Ireland and shadow Whip.  RTs are not endorsements. For casework queries, email tonia.antoniazzi.mp@parliament.uk |
@@ -583,7 +601,11 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Liz Twist](https://twitter.com/LizTwistMP) | Blaydon | Member of Parliament for Blaydon constituency. For all casework requests please telephone my office on 0191 414 2488 or e-mail liz.twist.mp@parliament.uk |
 | [Valerie Vaz](https://twitter.com/Valerie_VazMP) | Walsall South | Member of Parliament, Walsall South; for any queries and casework contact valerie.vaz.mp@parliament.uk I do not respond to casework on Twitter |
 | [Mohammad Yasin](https://twitter.com/YasinForBedford) | Bedford | Member of Parliament for Bedford and Kempston. Constituents please email: office@mohammadyasin.org |
-#### Not on Twitter (10)
+
+</details>
+<details>
+<summary>Not on Twitter (10)</summary>
+
 | Name | Constituency |
 | - | - |
 | Margaret Beckett | Derby South |
@@ -597,8 +619,12 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | Nick Thomas-Symonds | Torfaen |
 | Dame Rosie Winterton | Doncaster Central |
 
+</details>
+
 ### Scottish National Party
-#### Proud (34)
+<details>
+<summary>Proud (34)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Hannah Bardell](https://twitter.com/hannahb4livimp) | Livingston | Member of Parliament for the Livingston Constituency. SNP Spokesperson on Consular Affairs & @coe rep for the @theSNP. Bad weather surfer🏄‍♀️ She/ her. |
@@ -635,7 +661,11 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Alison Thewliss](https://twitter.com/alisonthewliss) | Glasgow Central | SNP MP for Glasgow Central<br><br>RTs not necessarily endorsements! Professional level curtseying, apparently. <br><br>alison.thewliss.mp@parliament.uk |
 | [Owen Thompson](https://twitter.com/OwenThompson) | Midlothian | SNP Member of Parliament for Midlothian. Views are my own, retweets not endorsement. I am a geek, tweets will often reflect this. |
 | [Richard Thomson](https://twitter.com/rthomsonmp) | Gordon | SNP MP for Gordon; WM Spx on International Trade; Northern Ireland & Wales. A RT from this RT ≠ endorsement. 🔕- contact via richard.thomson.mp@parliament.uk |
-#### Shy (10)
+
+</details>
+<details>
+<summary>Shy (10)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Mhairi Black](https://twitter.com/MhairiBlack) | Paisley and Renfrewshire South | MP for Paisley & Renfrewshire South. Constituents can get in touch at https://t.co/G4FYSIyQYR. RTs and Favourites are not always endorsements. She/Her |
@@ -648,13 +678,21 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Gavin Newlands](https://twitter.com/GavNewlandsSNP) | Paisley and Renfrewshire North | Proud MP 4 Paisley & Renfrewshire N.<br>Prouder husband to Lynn, and dad to Emma & Eilidh<br>'World class darts player'- Russ Bray<br>📧 gavin.newlands.mp@parliament.uk |
 | [Dr Philippa Whitford](https://twitter.com/Dr_PhilippaW) | Central Ayrshire | I’m delighted to be MP for Central Ayrshire and will do my best to assist constituents and work with local community groups and industries. |
 | [Pete Wishart](https://twitter.com/PeteWishart) | Perth and North Perthshire | MP for Perth and North Perthshire. Musician. Parliamentary Tweeter of the year. |
-#### Not on Twitter (1)
+
+</details>
+<details>
+<summary>Not on Twitter (1)</summary>
+
 | Name | Constituency |
 | - | - |
 | Brendan O'Hara | Argyll and Bute |
 
+</details>
+
 ### Liberal Democrat
-#### Proud (14)
+<details>
+<summary>Proud (14)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Mr Alistair Carmichael](https://twitter.com/amcarmichaelMP) | Orkney and Shetland | MP for Orkney and Shetland, Liberal Democrat Spokesperson on Home Affairs, Justice and Northern Ireland |
@@ -672,8 +710,12 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Jamie Stone](https://twitter.com/Jamie4North) | Caithness, Sutherland and Easter Ross | MP for Caithness, Sutherland and Easter Ross | Lib Dem Spokesperson for Culture, Media and Sport | He/Him |
 | [Munira Wilson](https://twitter.com/munirawilson) | Twickenham | MP for Twickenham. Lib Dem Education Spokesperson. Please email me on munira.wilson.mp@parliament.uk if you require a reply. |
 
+</details>
+
 ### Democratic Unionist Party
-#### Proud (5)
+<details>
+<summary>Proud (5)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Sir Jeffrey M Donaldson](https://twitter.com/J_Donaldson_MP) | Lagan Valley | Sir Jeffrey is Leader of the Democratic Unionist Party & has been Member of Parliament for Lagan Valley since 1997. UK Trade Envoy to Egypt & Cameroon. 🇬🇧🇺🇦 |
@@ -681,82 +723,140 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | [Carla Lockhart](https://twitter.com/carlalockhart) | Upper Bann | @DUPonline Member of Parliament for Upper Bann #deliveringforyou contact:- carlalockhartmp.office@parliament.uk or my office 02838 310088 |
 | [Jim Shannon](https://twitter.com/jimshannonmp) | Strangford | Democratic Unionist Party <br>DUP Health Spokesperson in Westminster<br>Member of Parliament for Strangford, Northern Ireland<br>jim.shannon1@btopenworld.com<br>02891827990 |
 | [Sammy Wilson](https://twitter.com/eastantrimmp) | East Antrim | Democratic Unionist Party MP for East Antrim | Larne Office: 028 2826 7722 | Carrick Office: 028 9336 4615 | Casework email: barronj@parliament.uk |
-#### Shy (1)
+
+</details>
+<details>
+<summary>Shy (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Gavin Robinson](https://twitter.com/grobinsondup) | Belfast East | Member of Parliament for East Belfast | Lord Mayor of Belfast 2012/13 | For constituency queries / action please email: gavin.robinson.mp@parliament.uk |
-#### Not on Twitter (2)
+
+</details>
+<details>
+<summary>Not on Twitter (2)</summary>
+
 | Name | Constituency |
 | - | - |
 | Mr Gregory Campbell | East Londonderry |
 | Ian Paisley | North Antrim |
 
+</details>
+
 ### Sinn Féin
-#### Proud (4)
+<details>
+<summary>Proud (4)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [John Finucane](https://twitter.com/johnfinucane) | Belfast North | North Belfast Sinn Féin MP.                   Father, Solicitor & Long term campaigner for #PatFinucane Inquiry 📞028 9050 0890 📸john_finucanemp |
 | [Michelle Gildernew](https://twitter.com/gildernewm) | Fermanagh and South Tyrone | Sinn Féin MP for the amazing people of #FST. Wife/Mummy/Mamó/Republican/Feminist. Comm1stResponder, Aghaloo Tyrone GAA. I don’t argue with trolls! |
 | [Chris Hazzard](https://twitter.com/ChrisHazzardSF) | South Down | Sinn Féin, South Down. Active in the struggle for national liberation & international solidarity. Veigeatóir 🌾 Contact me via email: southdownmp@gmail.com |
 | [Francie Molloy](https://twitter.com/FrancieMolloy) | Mid Ulster | Sinn Féin MP for Mid Ulster |
-#### Shy (2)
+
+</details>
+<details>
+<summary>Shy (2)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Órfhlaith Begley](https://twitter.com/OrfhlaithBegley) | West Tyrone | Proud to represent the great people of West Tyrone as their MP. Qualified Solicitor. Irish Republican. Build the A5!! Contact-orfhlaith.begley@sinnfein.ie |
 | [Paul Maskey](https://twitter.com/PaulMaskeyMP) | Belfast West | Honoured to represent the proud people of west Belfast as their MP. #westisbest #investinthewest. |
-#### Not on Twitter (1)
+
+</details>
+<details>
+<summary>Not on Twitter (1)</summary>
+
 | Name | Constituency |
 | - | - |
 | Mickey Brady | Newry and Armagh |
 
+</details>
+
 ### Plaid Cymru
-#### Proud (2)
+<details>
+<summary>Proud (2)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Liz Saville Roberts](https://twitter.com/lsrplaid) | Dwyfor Meirionnydd | AS Dwyfor Meirionnydd | Dwyfor Meirionnydd MP | Arweinydd Seneddol | Westminster Leader @Plaid_Cymru 🏴󠁧󠁢󠁷󠁬󠁳󠁿 |
 | [Hywel Williams](https://twitter.com/hywelplaidcymru) | Arfon | Aelod Seneddol @Plaid_Cymru #Arfon Member of Parliament | hywel.williams.mp@parliament.uk 🏴󠁧󠁢󠁷󠁬󠁳󠁿 |
-#### Shy (1)
+
+</details>
+<details>
+<summary>Shy (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Ben Lake](https://twitter.com/BenMLake) | Ceredigion | Aelod Seneddol Ceredigion | Member of Parliament for Ceredigion | ben.lake.mp@parliament.uk 🏴󠁧󠁢󠁷󠁬󠁳󠁿 |
 
+</details>
+
 ### Alba Party
-#### Proud (1)
+<details>
+<summary>Proud (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Neale Hanvey](https://twitter.com/JNHanvey) | Kirkcaldy and Cowdenbeath | Alba Party Westminster Leader & MP for Kirkcaldy & Cowdenbeath. Tweeting Personally RT/QT≠ endorsement neale.hanvey.mp@parliament.uk T: 01592 210088 |
-#### Shy (1)
+
+</details>
+<details>
+<summary>Shy (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Kenny MacAskill](https://twitter.com/KennyMacAskill) | East Lothian | Kenny MacAskill |
 
+</details>
+
 ### Social Democratic & Labour Party
-#### Proud (1)
+<details>
+<summary>Proud (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Colum Eastwood](https://twitter.com/columeastwood) | Foyle | @SDLPlive Leader | MP for Foyle | Movement for a New Ireland | Derry | colum.eastwood.mp@parliament.uk |
-#### Shy (1)
+
+</details>
+<details>
+<summary>Shy (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Claire Hanna](https://twitter.com/ClaireHanna) | Belfast South | MP for South Belfast & a social democratic, anti-sectarian, new Ireland. Like arts, sustainability, Europe. Mum of 3 great girls Claire.Hanna.MP@parliament.uk |
 
+</details>
+
 ### Alliance
-#### Proud (1)
+<details>
+<summary>Proud (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Stephen Farry](https://twitter.com/StephenFarryMP) | North Down | Deputy Leader of @AllianceParty | MP for North Down | Westminster updates: @AlliancePartyUK | Constituency enquiries: stephen.farry.mp@parliament.uk |
 
+</details>
+
 ### Green Party
-#### Proud (1)
+<details>
+<summary>Proud (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Caroline Lucas](https://twitter.com/CarolineLucas) | Brighton, Pavilion | Green MP for Brighton Pavilion, former leader and co-leader of @TheGreenParty, Mum of two. A better world is possible. Let’s make it happen |
 
+</details>
+
 ### The Reclaim Party
-#### Proud (1)
+<details>
+<summary>Proud (1)</summary>
+
 | Name | Constituency | Bio |
 | - | - | - |
 | [Andrew Bridgen](https://twitter.com/ABridgen) | North West Leicestershire | Member of Parliament for North West Leicestershire. Any policy queries please send to andrew@andrewbridgen.com <br>Member of @thereclaimparty |
+
+</details>
 <!--results-auto-gen-end-->
 
 ## Methodology

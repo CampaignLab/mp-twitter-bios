@@ -77,8 +77,6 @@ import { createReadStream, readFile, writeFile } from 'fs';
         });
 
     let resultsString = "\n";
-    // resultsString += "| Party | Total | Proud | Shy | Invisible |\n";
-    // resultsString += "| - | - | - | - | - |\n";
 
     const sanitiseDescription = (description) =>
         description
@@ -86,25 +84,33 @@ import { createReadStream, readFile, writeFile } from 'fs';
             .replaceAll("|", "\|");
 
     const renderResultsTable = (description, mpList) => {
-        let outputString = `#### ${description} (${mpList.length})\n`;
-        outputString += "| Name | Constituency | Bio |\n";
+        let outputString = "| Name | Constituency | Bio |\n";
         outputString += "| - | - | - |\n";
         mpList.forEach(mp => {
             outputString += `| [${mp.name}](https://twitter.com/${mp.twitterUsername}) | ${mp.constituency} | ${sanitiseDescription(mp.description)} |\n`;
         });
 
-        return outputString;
+        return `<details>
+<summary>${description} (${mpList.length})</summary>
+
+${outputString}
+</details>
+`;
     }
 
     const renderTwitterlessResultsTable = (description, mpList) => {
-        let outputString = `#### ${description} (${mpList.length})\n`;
-        outputString += "| Name | Constituency |\n";
+        let outputString = "| Name | Constituency |\n";
         outputString += "| - | - |\n";
         mpList.forEach(mp => {
             outputString += `| ${mp.name} | ${mp.constituency} |\n`;
         });
 
-        return outputString;
+        return `<details>
+<summary>${description} (${mpList.length})</summary>
+
+${outputString}
+</details>
+`;
     }
 
 
