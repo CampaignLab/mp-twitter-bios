@@ -16,7 +16,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 ## Summary
 
 <!--summary-auto-gen-begin-->
-| Party | Total | Proud | Shy | Invisible |
+| Party | # of MPs | # of Proud MPs<br>(mentioning their party) | # of Shy MPs<br>(not mentioning their party) | # of MPs not on Twitter |
 | - | - | - | - | - |
 | __Conservative__ | 352 | 119 | 158 | 75 |
 | __Labour__ | 195 | 162 | 23 | 10 |

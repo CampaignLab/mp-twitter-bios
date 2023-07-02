@@ -61,7 +61,7 @@ import { createReadStream, readFile, writeFile } from 'fs';
     });
 
     let summaryString = "\n";
-    summaryString += "| Party | Total | Proud | Shy | Invisible |\n";
+    summaryString += "| Party | # of MPs | # of Proud MPs<br>(mentioning their party) | # of Shy MPs<br>(not mentioning their party) | # of MPs not on Twitter |\n";
     summaryString += "| - | - | - | - | - |\n";
 
     const sortedParties = Object.keys(results)
