@@ -16,12 +16,12 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 ## Summary
 
 <!--summary-auto-gen-begin-->
-| Party | # of MPs | # of Proud MPs<br>(mentioning their party) | # of Shy MPs<br>(not mentioning their party) | # of MPs not on Twitter |
+| Party | # of MPs | # of MPs mentioning their party | # of MPs not mentioning their party | # of MPs not on Twitter |
 | - | - | - | - | - |
-| __Conservative__ | 352 | 119 | 158 | 75 |
-| __Labour__ | 195 | 162 | 23 | 10 |
-| __Scottish National Party__ | 45 | 34 | 10 | 1 |
-| __Liberal Democrat__ | 14 | 14 | 0 | 0 |
+| Conservative | 352 | 119 | 158 | 75 |
+| Labour | 195 | 162 | 23 | 10 |
+| Scottish National Party | 45 | 34 | 10 | 1 |
+| Liberal Democrat | 14 | 14 | 0 | 0 |
 <!--summary-auto-gen-end-->
 
 ## Results
