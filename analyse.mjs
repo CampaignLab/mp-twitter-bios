@@ -14,7 +14,7 @@ import { createReadStream, readFile, writeFile } from 'fs';
 
     const aliases = {
         "Conservative": ["Conservative", "Tory", "Tories"],
-        "Labour": ["Labour"],
+        "Labour": ["Labour", "Lab"],
         "Liberal Democrat": ["Liberal Democrat", "Lib Dem", "Lib Dems", "LibDem"],
         "Scottish National Party": ["SNP", "Scottish National Party"],
         "Democratic Unionist Party": ["DUP", "Democratic Unionist Party"],

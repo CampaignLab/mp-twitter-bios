@@ -18,7 +18,7 @@ Inspired by [this thread](https://twitter.com/carolvorders/status/16428797047879
 | Party | Total MPs | Proud MPs | Shy MPs | MPs not on Twitter <!--auto-gen-begin-->
 | - | - | - | - | - |
 | __Conservative__ | 352 | 119 | 158 | 75 |
-| __Labour__ | 195 | 160 | 25 | 10 |
+| __Labour__ | 195 | 162 | 23 | 10 |
 | __Scottish National Party__ | 45 | 34 | 10 | 1 |
 | __Liberal Democrat__ | 14 | 14 | 0 | 0 |
 | __Democratic Unionist Party__ | 8 | 5 | 1 | 2 |
