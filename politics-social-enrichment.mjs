@@ -39,7 +39,8 @@ const MEMBER_USERNAME_OVERRIDES = {
     4815: "Mark_Logan_MP",
     1211: "AndrewmitchMP",
     3919: "Bob4Beckenham",
-    1428: "BillWigginMP"
+    1428: "BillWigginMP",
+    4855: "SarahAthertonMP"
 };
 
 (async () => {
