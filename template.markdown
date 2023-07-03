@@ -8,7 +8,7 @@ We analysed the Twitter biographies of each UK Member of Parliament (MP) to see 
 
 <!--summary-auto-gen-->
 
-If something doesn't look right, please get in touch by raising a ticket [here](https://github.com/12v/mp-twitter-bios/issues).
+Percentages for a party may not total 100% due to rounding.  If something doesn't look right, please get in touch by raising an issue [here](https://github.com/12v/mp-twitter-bios/issues).
 
 ## Introduction
 
