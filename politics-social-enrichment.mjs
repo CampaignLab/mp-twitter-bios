@@ -28,11 +28,11 @@ const MEMBER_ID_OVERRIDES = [
     193,
     4457,
     4479,
-    4373
+    4373,
+    4095
 ];
 
 const MEMBER_USERNAME_OVERRIDES = {
-    4095: "SteveBarclay",
     1522: "AdamHollowayMP",
     3970: "GarethJohnsonMP",
     1396: "IanLG_MP",
