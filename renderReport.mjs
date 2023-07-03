@@ -42,7 +42,7 @@ let resultsString = "\n";
 const sanitiseDescription = (description) =>
     description
         .replaceAll("\n", "<br>")
-        .replaceAll("|", "\|");
+        .replaceAll("|", "\\|");
 
 const renderDetails = (summary, details) =>
     `<details>

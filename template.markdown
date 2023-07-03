@@ -4,7 +4,7 @@ A [Campaign Lab](https://www.campaignlab.uk/) project
 
 ## Summary
 
-We analysed the Twitter biographies of each UK Member of Parliament (MP) to see whether they mentioned their political party.  A summary of the results for all parties with 10 or more MPs is as follows:
+We analysed the Twitter biographies of each UK Member of Parliament (MP) to see whether they mentioned their political party.  A summary of the results for parties with 10 or more MPs is as follows:
 
 <!--summary-auto-gen-->
 
