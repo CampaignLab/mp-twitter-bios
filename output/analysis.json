@@ -3552,6 +3552,14 @@
         "description": "Member of Parliament for Dumfriesshire, Clydesdale and Tweeddale. For constituency issues contact me on david@davidmundell.com"
       },
       {
+        "id": 1466,
+        "name": "Dr Andrew Murrison",
+        "party": "Conservative",
+        "constituency": "South West Wiltshire",
+        "twitterUsername": "AWMurrison",
+        "description": "Serving SW Wilts. Minister for Defence People. Navy vet, reservist, doctor, proud father of 5. Likes defence, NI, foreign affairs, healthcare."
+      },
+      {
         "id": 1601,
         "name": "Sir Robert Neill",
         "party": "Conservative",
@@ -4246,12 +4254,6 @@
         "name": "Holly Mumby-Croft",
         "party": "Conservative",
         "constituency": "Scunthorpe"
-      },
-      {
-        "id": 1466,
-        "name": "Dr Andrew Murrison",
-        "party": "Conservative",
-        "constituency": "South West Wiltshire"
       },
       {
         "id": 1528,

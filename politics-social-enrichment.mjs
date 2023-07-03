@@ -29,7 +29,8 @@ const MEMBER_ID_OVERRIDES = [
     4457,
     4479,
     4373,
-    4095
+    4095,
+    1466
 ];
 
 const MEMBER_USERNAME_OVERRIDES = {
