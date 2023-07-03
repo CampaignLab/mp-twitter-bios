@@ -135,7 +135,8 @@
     "id": 4855,
     "name": "Sarah Atherton",
     "party": "Conservative",
-    "constituency": "Wrexham"
+    "constituency": "Wrexham",
+    "twitterUsername": "SarahAthertonMP"
   },
   {
     "id": 4399,
@@ -204,7 +205,7 @@
     "name": "Steve Barclay",
     "party": "Conservative",
     "constituency": "North East Cambridgeshire",
-    "twitterUsername": "SteveBarclayMP"
+    "twitterUsername": "SteveBarclay"
   },
   {
     "id": 4486,
@@ -319,7 +320,7 @@
     "name": "Bob Blackman",
     "party": "Conservative",
     "constituency": "Harrow East",
-    "twitterUsername": "BobBlackmanMP"
+    "twitterUsername": "BobBlackman"
   },
   {
     "id": 4357,
@@ -347,14 +348,14 @@
     "name": "Crispin Blunt",
     "party": "Conservative",
     "constituency": "Reigate",
-    "twitterUsername": "crispinbluntmp"
+    "twitterUsername": "CrispinBlunt"
   },
   {
     "id": 1581,
     "name": "Mr Peter Bone",
     "party": "Conservative",
     "constituency": "Wellingborough",
-    "twitterUsername": "PeterBoneMP"
+    "twitterUsername": "PeterBoneUK"
   },
   {
     "id": 4748,
@@ -409,7 +410,7 @@
     "name": "Mickey Brady",
     "party": "Sinn Féin",
     "constituency": "Newry and Armagh",
-    "twitterUsername": "mickeybrady4mp"
+    "twitterUsername": "MickeyBradySF"
   },
   {
     "id": 4475,
@@ -491,7 +492,7 @@
     "name": "Anthony Browne",
     "party": "Conservative",
     "constituency": "South Cambridgeshire",
-    "twitterUsername": "ab4scambs"
+    "twitterUsername": "AnthonyBrowneMP"
   },
   {
     "id": 3958,
@@ -726,7 +727,7 @@
     "name": "Jo Churchill",
     "party": "Conservative",
     "constituency": "Bury St Edmunds",
-    "twitterUsername": "jochurchill4"
+    "twitterUsername": "Jochurchill_MP"
   },
   {
     "id": 4822,
@@ -747,7 +748,7 @@
     "name": "Sir Simon Clarke",
     "party": "Conservative",
     "constituency": "Middlesbrough South and East Cleveland",
-    "twitterUsername": "SimonClarke84"
+    "twitterUsername": "SimonClarkeMP"
   },
   {
     "id": 4819,
@@ -872,7 +873,7 @@
     "name": "Stephen Crabb",
     "party": "Conservative",
     "constituency": "Preseli Pembrokeshire",
-    "twitterUsername": "SCrabbMP"
+    "twitterUsername": "SCrabbPembs"
   },
   {
     "id": 4469,
@@ -1350,7 +1351,7 @@
     "name": "Sir David Evennett",
     "party": "Conservative",
     "constituency": "Bexleyheath and Crayford",
-    "twitterUsername": "DavidEvennett"
+    "twitterUsername": "DavidEvennettMP"
   },
   {
     "id": 4836,
@@ -1715,7 +1716,7 @@
     "name": "Damian Green",
     "party": "Conservative",
     "constituency": "Ashford",
-    "twitterUsername": "damiangreenmp"
+    "twitterUsername": "DamianGreen"
   },
   {
     "id": 4918,
@@ -2052,7 +2053,8 @@
     "id": 1522,
     "name": "Adam Holloway",
     "party": "Conservative",
-    "constituency": "Gravesham"
+    "constituency": "Gravesham",
+    "twitterUsername": "AdamHollowayMP"
   },
   {
     "id": 4803,
@@ -2238,7 +2240,8 @@
     "id": 3970,
     "name": "Gareth Johnson",
     "party": "Conservative",
-    "constituency": "Dartford"
+    "constituency": "Dartford",
+    "twitterUsername": "GarethJohnsonMP"
   },
   {
     "id": 4824,
@@ -2542,7 +2545,8 @@
     "id": 1396,
     "name": "Mr Ian Liddell-Grainger",
     "party": "Conservative",
-    "constituency": "Bridgwater and West Somerset"
+    "constituency": "Bridgwater and West Somerset",
+    "twitterUsername": "IanLG_MP"
   },
   {
     "id": 4943,
@@ -2583,7 +2587,8 @@
     "id": 4815,
     "name": "Mark Logan",
     "party": "Conservative",
-    "constituency": "Bolton North East"
+    "constituency": "Bolton North East",
+    "twitterUsername": "Mark_Logan_MP"
   },
   {
     "id": 4396,
@@ -2772,7 +2777,7 @@
     "name": "Paul Maynard",
     "party": "Conservative",
     "constituency": "Blackpool North and Cleveleys",
-    "twitterUsername": "PaulMaynardMP"
+    "twitterUsername": "PaulMaynardUK"
   },
   {
     "id": 298,
@@ -2807,7 +2812,7 @@
     "name": "Siobhain McDonagh",
     "party": "Labour",
     "constituency": "Mitcham and Morden",
-    "twitterUsername": "Siobhain_MP"
+    "twitterUsername": "Siobhain_Mc"
   },
   {
     "id": 4269,
@@ -2898,7 +2903,7 @@
     "name": "Stephen McPartland",
     "party": "Conservative",
     "constituency": "Stevenage",
-    "twitterUsername": "SMcPartlandMP"
+    "twitterUsername": "SMcPartland"
   },
   {
     "id": 4084,
@@ -2960,7 +2965,7 @@
     "name": "Dame Maria Miller",
     "party": "Conservative",
     "constituency": "Basingstoke",
-    "twitterUsername": "Maria_MillerMP"
+    "twitterUsername": "MariaMillerUK"
   },
   {
     "id": 4454,
@@ -2974,7 +2979,7 @@
     "name": "Nigel Mills",
     "party": "Conservative",
     "constituency": "Amber Valley",
-    "twitterUsername": "NigelMillsMP"
+    "twitterUsername": "nigelmills"
   },
   {
     "id": 4811,
@@ -2987,7 +2992,8 @@
     "id": 1211,
     "name": "Mr Andrew Mitchell",
     "party": "Conservative",
-    "constituency": "Sutton Coldfield"
+    "constituency": "Sutton Coldfield",
+    "twitterUsername": "AndrewmitchMP"
   },
   {
     "id": 4804,
@@ -3237,7 +3243,7 @@
     "name": "Brendan O'Hara",
     "party": "Scottish National Party",
     "constituency": "Argyll and Bute",
-    "twitterUsername": "brendanoharasnp"
+    "twitterUsername": "BrendanOHaraMP"
   },
   {
     "id": 4591,
@@ -3431,7 +3437,7 @@
     "name": "Mark Pritchard",
     "party": "Conservative",
     "constituency": "The Wrekin",
-    "twitterUsername": "MPritchardMP"
+    "twitterUsername": "MPritchardUK"
   },
   {
     "id": 4369,
@@ -3563,7 +3569,7 @@
     "name": "Ms Marie Rimmer",
     "party": "Labour",
     "constituency": "St Helens South and Whiston",
-    "twitterUsername": "MarieRimmerMP"
+    "twitterUsername": "MarieRimmer"
   },
   {
     "id": 4810,
@@ -3639,7 +3645,7 @@
     "name": "David Rutley",
     "party": "Conservative",
     "constituency": "Macclesfield",
-    "twitterUsername": "DavidRutleyMP"
+    "twitterUsername": "DavidRutley"
   },
   {
     "id": 4760,
@@ -3758,7 +3764,7 @@
     "name": "Chris Skidmore",
     "party": "Conservative",
     "constituency": "Kingswood",
-    "twitterUsername": "cskidmoremp"
+    "twitterUsername": "CSkidmoreUK"
   },
   {
     "id": 1516,
@@ -3919,13 +3925,14 @@
     "name": "John Stevenson",
     "party": "Conservative",
     "constituency": "Carlisle",
-    "twitterUsername": "JohnStevensonMP"
+    "twitterUsername": "John4Carlisle"
   },
   {
     "id": 3919,
     "name": "Bob Stewart",
     "party": "Conservative",
-    "constituency": "Beckenham"
+    "constituency": "Beckenham",
+    "twitterUsername": "Bob4Beckenham"
   },
   {
     "id": 4015,
@@ -4015,7 +4022,7 @@
     "name": "Sir Robert Syms",
     "party": "Conservative",
     "constituency": "Poole",
-    "twitterUsername": "robertsymsMP"
+    "twitterUsername": "RobertSyms"
   },
   {
     "id": 1383,
@@ -4057,7 +4064,7 @@
     "name": "Nick Thomas-Symonds",
     "party": "Labour",
     "constituency": "Torfaen",
-    "twitterUsername": "nicktorfaenmp"
+    "twitterUsername": "NickTorfaen"
   },
   {
     "id": 4482,
@@ -4113,7 +4120,7 @@
     "name": "Justin Tomlinson",
     "party": "Conservative",
     "constituency": "North Swindon",
-    "twitterUsername": "JTomlinsonMP"
+    "twitterUsername": "JustinTomlinson"
   },
   {
     "id": 4497,
@@ -4342,7 +4349,7 @@
     "name": "Craig Whittaker",
     "party": "Conservative",
     "constituency": "Calder Valley",
-    "twitterUsername": "CWhittakerMP"
+    "twitterUsername": "CWhittaker_MP"
   },
   {
     "id": 39,
@@ -4362,7 +4369,8 @@
     "id": 1428,
     "name": "Sir Bill Wiggin",
     "party": "Conservative",
-    "constituency": "North Herefordshire"
+    "constituency": "North Herefordshire",
+    "twitterUsername": "BillWigginMP"
   },
   {
     "id": 4787,
@@ -4390,7 +4398,7 @@
     "name": "Sir Gavin Williamson",
     "party": "Conservative",
     "constituency": "South Staffordshire",
-    "twitterUsername": "GWilliamsonMP"
+    "twitterUsername": "GavinWilliamson"
   },
   {
     "id": 4776,

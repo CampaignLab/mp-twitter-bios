@@ -153,7 +153,9 @@
     "id": 4855,
     "name": "Sarah Atherton",
     "party": "Conservative",
-    "constituency": "Wrexham"
+    "constituency": "Wrexham",
+    "twitterUsername": "SarahAthertonMP",
+    "description": "Conservative Member of Parliament for Wrexham. For all casework queries, please email: sarah.atherton.mp@parliament.uk."
   },
   {
     "id": 4399,
@@ -229,7 +231,9 @@
     "id": 4095,
     "name": "Steve Barclay",
     "party": "Conservative",
-    "constituency": "North East Cambridgeshire"
+    "constituency": "North East Cambridgeshire",
+    "twitterUsername": "SteveBarclay",
+    "description": "MP for North East Cambridgeshire, Health & Social Care Secretary 🇬🇧\n\n➡ Cutting waiting lists.\n➡ Better A&E performance.\n➡ Easier access to treatment."
   },
   {
     "id": 4486,
@@ -355,7 +359,9 @@
     "id": 4005,
     "name": "Bob Blackman",
     "party": "Conservative",
-    "constituency": "Harrow East"
+    "constituency": "Harrow East",
+    "twitterUsername": "BobBlackman",
+    "description": "Conservative MP for Harrow East. Avid Spurs fan."
   },
   {
     "id": 4357,
@@ -385,13 +391,17 @@
     "id": 104,
     "name": "Crispin Blunt",
     "party": "Conservative",
-    "constituency": "Reigate"
+    "constituency": "Reigate",
+    "twitterUsername": "CrispinBlunt",
+    "description": "Member of Parliament for Reigate.\nFor any queries, please email crispinbluntmp@parliament.uk"
   },
   {
     "id": 1581,
     "name": "Mr Peter Bone",
     "party": "Conservative",
-    "constituency": "Wellingborough"
+    "constituency": "Wellingborough",
+    "twitterUsername": "PeterBoneUK",
+    "description": "Member of Parliament for Wellingborough and Rushden. Constituency matters email bonep@parliament.uk. I do not respond to twitter enquires."
   },
   {
     "id": 4748,
@@ -449,7 +459,9 @@
     "id": 4373,
     "name": "Mickey Brady",
     "party": "Sinn Féin",
-    "constituency": "Newry and Armagh"
+    "constituency": "Newry and Armagh",
+    "twitterUsername": "MickeyBradySF",
+    "description": "Sinn Féin MP for Newry/Armagh. • Proud to be #YourLocalChampion"
   },
   {
     "id": 4475,
@@ -539,7 +551,9 @@
     "id": 4801,
     "name": "Anthony Browne",
     "party": "Conservative",
-    "constituency": "South Cambridgeshire"
+    "constituency": "South Cambridgeshire",
+    "twitterUsername": "AnthonyBrowneMP",
+    "description": "Conservative MP for South Cambridgeshire. 👊PM’s Anti-Fraud Champion🌳 Vice-Chair @EnvironmentAPPG. For casework, please email anthony.browne.mp@parliament.uk"
   },
   {
     "id": 3958,
@@ -803,7 +817,9 @@
     "id": 4380,
     "name": "Jo Churchill",
     "party": "Conservative",
-    "constituency": "Bury St Edmunds"
+    "constituency": "Bury St Edmunds",
+    "twitterUsername": "Jochurchill_MP",
+    "description": "Vice Chamberlain of HM Household & MP for Bury St Edmunds, Stowmarket, Needham Market & villages. Constituents can contact me at jo.churchill.mp@parliament.uk"
   },
   {
     "id": 4822,
@@ -825,7 +841,9 @@
     "id": 4655,
     "name": "Sir Simon Clarke",
     "party": "Conservative",
-    "constituency": "Middlesbrough South and East Cleveland"
+    "constituency": "Middlesbrough South and East Cleveland",
+    "twitterUsername": "SimonClarkeMP",
+    "description": "@Conservatives MP for Middlesbrough South and East Cleveland."
   },
   {
     "id": 4819,
@@ -965,7 +983,9 @@
     "id": 1554,
     "name": "Stephen Crabb",
     "party": "Conservative",
-    "constituency": "Preseli Pembrokeshire"
+    "constituency": "Preseli Pembrokeshire",
+    "twitterUsername": "SCrabbPembs",
+    "description": "Member of Parliament for Preseli Pembrokeshire. Welsh Conservative."
   },
   {
     "id": 4469,
@@ -1503,7 +1523,9 @@
     "id": 1198,
     "name": "Sir David Evennett",
     "party": "Conservative",
-    "constituency": "Bexleyheath and Crayford"
+    "constituency": "Bexleyheath and Crayford",
+    "twitterUsername": "DavidEvennettMP",
+    "description": "Member of Parliament for Bexleyheath and Crayford\nTo get in touch, please use the contact form at: https://t.co/mmT81QWDEb"
   },
   {
     "id": 4836,
@@ -1911,7 +1933,9 @@
     "id": 76,
     "name": "Damian Green",
     "party": "Conservative",
-    "constituency": "Ashford"
+    "constituency": "Ashford",
+    "twitterUsername": "DamianGreen",
+    "description": "Member of Parliament for Ashford. For an individual reply email https://t.co/uu0YXowdXj.mp@parliament. uk"
   },
   {
     "id": 4918,
@@ -2287,7 +2311,9 @@
     "id": 1522,
     "name": "Adam Holloway",
     "party": "Conservative",
-    "constituency": "Gravesham"
+    "constituency": "Gravesham",
+    "twitterUsername": "AdamHollowayMP",
+    "description": "Member of Parliament for Gravesham since 2005."
   },
   {
     "id": 4803,
@@ -2495,7 +2521,9 @@
     "id": 3970,
     "name": "Gareth Johnson",
     "party": "Conservative",
-    "constituency": "Dartford"
+    "constituency": "Dartford",
+    "twitterUsername": "GarethJohnsonMP",
+    "description": ""
   },
   {
     "id": 4824,
@@ -2837,7 +2865,9 @@
     "id": 1396,
     "name": "Mr Ian Liddell-Grainger",
     "party": "Conservative",
-    "constituency": "Bridgwater and West Somerset"
+    "constituency": "Bridgwater and West Somerset",
+    "twitterUsername": "IanLG_MP",
+    "description": "Conservative Member of Parliament for Bridgwater and West Somerset"
   },
   {
     "id": 4943,
@@ -2883,7 +2913,9 @@
     "id": 4815,
     "name": "Mark Logan",
     "party": "Conservative",
-    "constituency": "Bolton North East"
+    "constituency": "Bolton North East",
+    "twitterUsername": "Mark_Logan_MP",
+    "description": "Constituency matters on Facebook. 📣 Broadcast account. Chair Afghanistan APPG. PPS Department For Work and Pensions"
   },
   {
     "id": 4396,
@@ -3097,7 +3129,9 @@
     "id": 3926,
     "name": "Paul Maynard",
     "party": "Conservative",
-    "constituency": "Blackpool North and Cleveleys"
+    "constituency": "Blackpool North and Cleveleys",
+    "twitterUsername": "PaulMaynardUK",
+    "description": "Twitter account of Paul Maynard, Member of Parliament for Blackpool North and Cleveleys"
   },
   {
     "id": 298,
@@ -3135,7 +3169,9 @@
     "id": 193,
     "name": "Siobhain McDonagh",
     "party": "Labour",
-    "constituency": "Mitcham and Morden"
+    "constituency": "Mitcham and Morden",
+    "twitterUsername": "Siobhain_Mc",
+    "description": "Labour MP for Mitcham and Morden"
   },
   {
     "id": 4269,
@@ -3237,7 +3273,9 @@
     "id": 4093,
     "name": "Stephen McPartland",
     "party": "Conservative",
-    "constituency": "Stevenage"
+    "constituency": "Stevenage",
+    "twitterUsername": "SMcPartland",
+    "description": "Member of Parliament for Stevenage Please contact me at: stephen@stephenmcpartland.co.uk"
   },
   {
     "id": 4084,
@@ -3305,7 +3343,9 @@
     "id": 1480,
     "name": "Dame Maria Miller",
     "party": "Conservative",
-    "constituency": "Basingstoke"
+    "constituency": "Basingstoke",
+    "twitterUsername": "MariaMillerUK",
+    "description": "Conservative MP for Basingstoke, please email if you are a constituent with a specific issue that requires a personal response maria.miller.mp@parliament.uk"
   },
   {
     "id": 4454,
@@ -3319,7 +3359,9 @@
     "id": 4136,
     "name": "Nigel Mills",
     "party": "Conservative",
-    "constituency": "Amber Valley"
+    "constituency": "Amber Valley",
+    "twitterUsername": "nigelmills",
+    "description": "Conservative Member of Parliament for Amber Valley. To get in touch, please email nigel@nigelmillsmp.com or ring 01773 744341."
   },
   {
     "id": 4811,
@@ -3333,7 +3375,9 @@
     "id": 1211,
     "name": "Mr Andrew Mitchell",
     "party": "Conservative",
-    "constituency": "Sutton Coldfield"
+    "constituency": "Sutton Coldfield",
+    "twitterUsername": "AndrewmitchMP",
+    "description": "Minister of State (Development & Africa) @FCDOgovUK\n#UKInternationalDevelopment #UKDev #UKAid\nMember of Parliament for the Royal Town of Sutton Coldfield"
   },
   {
     "id": 4804,
@@ -3611,7 +3655,9 @@
     "id": 4371,
     "name": "Brendan O'Hara",
     "party": "Scottish National Party",
-    "constituency": "Argyll and Bute"
+    "constituency": "Argyll and Bute",
+    "twitterUsername": "BrendanOHaraMP",
+    "description": "Member of Parliament for Argyll & Bute. Chief Whip, SNP Westminster Group"
   },
   {
     "id": 4591,
@@ -3827,7 +3873,9 @@
     "id": 1576,
     "name": "Mark Pritchard",
     "party": "Conservative",
-    "constituency": "The Wrekin"
+    "constituency": "The Wrekin",
+    "twitterUsername": "MPritchardUK",
+    "description": "Member of UK Parliament. Former UK OSCE Leader, Intelligence & Security Committee, PACE & NATO PA & former Trade & Investment Envoy to South Caucuses"
   },
   {
     "id": 4369,
@@ -3976,8 +4024,8 @@
     "name": "Ms Marie Rimmer",
     "party": "Labour",
     "constituency": "St Helens South and Whiston",
-    "twitterUsername": "MarieRimmerMP",
-    "description": ""
+    "twitterUsername": "MarieRimmer",
+    "description": "Member of Parliament for St Helens South and Whiston. Labour & Saints. If you are a constituent please email me at marie.rimmer.mp@parliament.uk"
   },
   {
     "id": 4810,
@@ -4061,7 +4109,9 @@
     "id": 4033,
     "name": "David Rutley",
     "party": "Conservative",
-    "constituency": "Macclesfield"
+    "constituency": "Macclesfield",
+    "twitterUsername": "DavidRutley",
+    "description": "MP for Macclesfield. FCDO Minister for Americas & Caribbean. If you are a constituent please email casework or policy issues to david.rutley.mp@parliament.uk"
   },
   {
     "id": 4760,
@@ -4195,7 +4245,9 @@
     "id": 4021,
     "name": "Chris Skidmore",
     "party": "Conservative",
-    "constituency": "Kingswood"
+    "constituency": "Kingswood",
+    "twitterUsername": "CSkidmoreUK",
+    "description": "Rt Hon Chris Skidmore OBE. Kingswood MP. Former UK Cabinet Minister for Energy. Chair Net Zero Review #MissionZero. Chair @EnvironmentAPPG. Professor @UniofBath"
   },
   {
     "id": 1516,
@@ -4377,13 +4429,17 @@
     "id": 3942,
     "name": "John Stevenson",
     "party": "Conservative",
-    "constituency": "Carlisle"
+    "constituency": "Carlisle",
+    "twitterUsername": "John4Carlisle",
+    "description": "MP for Carlisle. Chair of the NRG. Replies, tweet & DMs not monitored. If you are a constituent & you have casework /queries email office@johnstevensonmp.co.uk"
   },
   {
     "id": 3919,
     "name": "Bob Stewart",
     "party": "Conservative",
-    "constituency": "Beckenham"
+    "constituency": "Beckenham",
+    "twitterUsername": "Bob4Beckenham",
+    "description": "Member of Parliament for #Beckenham. Prospective @Conservatives Candidate for #Beckenham & #Penge. Constituents should e-mail bob.stewart.mp@parliament.uk."
   },
   {
     "id": 4015,
@@ -4483,7 +4539,9 @@
     "id": 245,
     "name": "Sir Robert Syms",
     "party": "Conservative",
-    "constituency": "Poole"
+    "constituency": "Poole",
+    "twitterUsername": "RobertSyms",
+    "description": "Conservative Member of Parliament For Poole Re-Elected with 19,116 majority"
   },
   {
     "id": 1383,
@@ -4529,7 +4587,9 @@
     "id": 4479,
     "name": "Nick Thomas-Symonds",
     "party": "Labour",
-    "constituency": "Torfaen"
+    "constituency": "Torfaen",
+    "twitterUsername": "NickTorfaen",
+    "description": "Shadow Secretary of State for International Trade and Welsh Labour MP for Torfaen"
   },
   {
     "id": 4482,
@@ -4591,7 +4651,9 @@
     "id": 4105,
     "name": "Justin Tomlinson",
     "party": "Conservative",
-    "constituency": "North Swindon"
+    "constituency": "North Swindon",
+    "twitterUsername": "JustinTomlinson",
+    "description": "North Swindon Conservative MP & Assistant Manager to Clemmie, Margot & Kate ⚽️"
   },
   {
     "id": 4497,
@@ -4849,7 +4911,9 @@
     "id": 3940,
     "name": "Craig Whittaker",
     "party": "Conservative",
-    "constituency": "Calder Valley"
+    "constituency": "Calder Valley",
+    "twitterUsername": "CWhittaker_MP",
+    "description": "Conservative MP for Calder Valley in West Yorkshire. For queries, please email craig.whittaker.mp@parliament.uk for a response. No response via Twitter."
   },
   {
     "id": 39,
@@ -4871,7 +4935,9 @@
     "id": 1428,
     "name": "Sir Bill Wiggin",
     "party": "Conservative",
-    "constituency": "North Herefordshire"
+    "constituency": "North Herefordshire",
+    "twitterUsername": "BillWigginMP",
+    "description": "Conservative MP for North Herefordshire"
   },
   {
     "id": 4787,
@@ -4901,7 +4967,9 @@
     "id": 4108,
     "name": "Sir Gavin Williamson",
     "party": "Conservative",
-    "constituency": "South Staffordshire"
+    "constituency": "South Staffordshire",
+    "twitterUsername": "GavinWilliamson",
+    "description": "Conservative Member of Parliament for South Staffordshire. For any casework issues please email gavin.williamson.mp@parliament.uk"
   },
   {
     "id": 4776,

@@ -15,7 +15,7 @@ const PARTY_ALIASES = {
     "Alba Party": ["Alba"]
 }
 
-const mps = JSON.parse(readFileSync('output/members-api-and-pol-social-and-twitter-backup.json', 'utf8'));
+const mps = JSON.parse(readFileSync('output/members-api-and-pol-social-and-twitter.json', 'utf8'));
 
 const results = {};
 
@@ -43,7 +43,7 @@ mps.forEach(mp => {
 
     results[mp.party].total++;
 
-    if (!mp.description) {
+    if (!mp.twitterUsername) {
         results[mp.party].invisible.push(mp);
     } else if (PARTY_ALIASES[mp.party].some(alias => mp.description.toLowerCase().includes(alias.toLowerCase()))) {
         results[mp.party].proud.push(mp);

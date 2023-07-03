@@ -16,7 +16,7 @@ Twitter is commonly used by MPs to engage with the public and communicate their 
 
 ## Results
 
-As of 26/06/2023.
+As of 02/07/2023.
 
 <!--results-auto-gen-->
 
