@@ -17,7 +17,7 @@ const templateString = (data, comment, newContent) => {
 
 let summaryString = "\n";
 summaryString += "| Party | # of MPs | # of MPs mentioning their party | # of MPs not mentioning their party | # of MPs not on Twitter |\n";
-summaryString += "| - | - | - | - | - |\n";
+summaryString += "| - | :-: | :-: | :-: | :-: |\n";
 
 const partiesSortedBySize = Object.keys(results)
     .sort((a, b) => {
@@ -25,10 +25,16 @@ const partiesSortedBySize = Object.keys(results)
         return size !== 0 ? size : a.localeCompare(b);
     });
 
+const renderNumberWithPercent = (numerator, denominator) => {
+    const percent = 100*numerator/denominator;
+    return `${numerator} (${percent.toFixed(0)}%)`;
+}
+
 partiesSortedBySize
     .filter(party => results[party].total > 9)
     .forEach(party => {
-        summaryString += `| ${party} | ${results[party].total} | ${results[party].proud.length} | ${results[party].shy.length} | ${results[party].invisible.length} |\n`;
+        const partyResults = results[party];
+        summaryString += `| ${party} | ${partyResults.total} | ${renderNumberWithPercent(partyResults.proud.length, partyResults.total)} | ${renderNumberWithPercent(partyResults.shy.length, partyResults.total)} | ${renderNumberWithPercent(partyResults.invisible.length, partyResults.total)} |\n`;
     });
 
 let resultsString = "\n";
@@ -73,20 +79,18 @@ partiesSortedBySize
         const totalCount = results[party].total;
 
         if (results[party].proud.length) {
-            partyString += renderResultsTable("Proud", results[party].proud, totalCount);
+            partyString += renderResultsTable("MPs mentioning their party", results[party].proud, totalCount);
         }
 
         if (results[party].shy.length) {
-            partyString += renderResultsTable("Shy", results[party].shy, totalCount);
+            partyString += renderResultsTable("MPs not mentioning their party", results[party].shy, totalCount);
         }
 
         if (results[party].invisible.length) {
-            partyString += renderTwitterlessResultsTable("Not on Twitter", results[party].invisible, totalCount);
+            partyString += renderTwitterlessResultsTable("MPs not on Twitter", results[party].invisible, totalCount);
         }
 
         resultsString += renderDetails(party, partyString);
-
-        resultsString += "<br>";
     });
 
 let markdownString = readFileSync('./template.markdown', 'utf8');

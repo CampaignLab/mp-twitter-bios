@@ -1,11 +1,51 @@
 import { createReadStream } from 'fs';
 import csv from 'csv-parser';
-import {mkdirSync, writeFileSync} from 'fs';
+import { mkdirSync, writeFileSync } from 'fs';
+
+const MEMBER_ID_OVERRIDES = [
+    4371,
+    4005,
+    104,
+    1581,
+    4801,
+    4380,
+    4655,
+    1554,
+    1198,
+    76,
+    3926,
+    4093,
+    1480,
+    4136,
+    1576,
+    4033,
+    4021,
+    3942,
+    245,
+    4105,
+    3940,
+    4108,
+    193,
+    4457,
+    4479,
+    4373
+];
+
+const MEMBER_USERNAME_OVERRIDES = {
+    4095: "SteveBarclay",
+    1522: "AdamHollowayMP",
+    3970: "GarethJohnsonMP",
+    1396: "IanLG_MP",
+    4815: "Mark_Logan_MP",
+    1211: "AndrewmitchMP",
+    3919: "Bob4Beckenham",
+    1428: "BillWigginMP"
+};
 
 (async () => {
     const politicsSocialMembers = await new Promise((resolve, reject) => {
         const results = [];
-    
+
         createReadStream('MPsonTwitter_list_name.csv')
             .pipe(csv())
             .on('data', (data) => results.push(data))
@@ -15,10 +55,10 @@ import {mkdirSync, writeFileSync} from 'fs';
                 reject(err);
             });
     });
-    
+
     const members = await new Promise((resolve, reject) => {
         let resultsString = "";
-    
+
         createReadStream('output/members-api.json')
             .on('data', (data) => resultsString += data)
             .on('end', () => {
@@ -41,7 +81,12 @@ import {mkdirSync, writeFileSync} from 'fs';
             }
         });
 
-        if (!member.twitterUsername && psMember) {
+        if (MEMBER_USERNAME_OVERRIDES[member.id]) {
+            member.twitterUsername = MEMBER_USERNAME_OVERRIDES[member.id];
+            console.log(`Matched ${member.name} to ${member.twitterUsername}`);
+        }
+
+        if ((MEMBER_ID_OVERRIDES.includes(member.id) || !member.twitterUsername) && psMember) {
             member.twitterUsername = psMember["Screen name"].split("@")[1];
             console.log(`Matched ${member.name} to ${member.twitterUsername}`);
         }
