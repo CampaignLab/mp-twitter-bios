@@ -113,6 +113,7 @@ const options = {
 
 const req = https.request(options, res => {
     let htmlString = '';
+    res.setEncoding('utf8');
     res.on('data', d => {
         htmlString += d;
     });
