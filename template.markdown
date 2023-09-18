@@ -16,9 +16,11 @@ Twitter is commonly used by MPs to engage with the public and communicate their 
 
 ## Results
 
-As of 02/07/2023.
+As of 18/09/2023.
 
 <!--results-auto-gen-->
+
+Previous results: [02/07/2023](https://12v.github.io/mp-twitter-bios/archive/2023-07-02.html).
 
 ## Methodology
 
@@ -40,6 +42,6 @@ Potential avenues for further investigation include exploring whether there is a
  - MPs associated with a particular bloc or committee, like the 1922 committee.
   - MPs elected during specific parliamentary elections.
   - MPs who hold membership or actively participate in other organisations.
-  - The size of an MPs majority.
+  - The size of an MP's majority.
 
 We can also track changes in these results going forward to see what trends emerge.
