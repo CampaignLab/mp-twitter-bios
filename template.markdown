@@ -24,7 +24,7 @@ As of 18/09/2023.  Past write-ups: [02/07/2023](https://12v.github.io/mp-twitter
 
 Parliament's [Members API](https://members-api.parliament.uk/index.html) was used to source all MPs and their current party, and Twitter usernames for those MPs that have chosen to submit the information to Parliament's IT team.
 
-This data was enriched with information from [Politics Social's curated list](https://www.politics-social.com/list/name) of MP Twitter usernames.  This provides some usernames that aren't available from Parliament's Members API.
+This data was enriched with information from [Politics Social's curated list](https://www.politics-social.com/) of MP Twitter usernames.  This provides some usernames that aren't available from Parliament's Members API.
 
 For each MP, we visited their Twitter profile and retrieved the text of their biography.
 
