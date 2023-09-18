@@ -307,7 +307,7 @@
     "name": "Bob Blackman",
     "party": "Conservative",
     "constituency": "Harrow East",
-    "twitterUsername": "BobBlackmanMP"
+    "twitterUsername": "BobBlackman"
   },
   {
     "id": 4357,
@@ -1100,13 +1100,6 @@
     "twitterUsername": "allandoransMP"
   },
   {
-    "id": 1481,
-    "name": "Ms Nadine Dorries",
-    "party": "Conservative",
-    "constituency": "Mid Bedfordshire",
-    "twitterUsername": "nadinedorries"
-  },
-  {
     "id": 4452,
     "name": "Steve Double",
     "party": "Conservative",
@@ -1185,6 +1178,12 @@
     "party": "Conservative",
     "constituency": "Ludlow",
     "twitterUsername": "dunne4ludlow"
+  },
+  {
+    "id": 4995,
+    "name": "Sarah Dyke",
+    "party": "Liberal Democrat",
+    "constituency": "Somerton and Frome"
   },
   {
     "id": 491,
@@ -1356,13 +1355,6 @@
     "party": "Scottish National Party",
     "constituency": "Motherwell and Wishaw",
     "twitterUsername": "marionfellows"
-  },
-  {
-    "id": 4386,
-    "name": "Margaret Ferrier",
-    "party": "Independent",
-    "constituency": "Rutherglen and Hamilton West",
-    "twitterUsername": "MargaretFerrier"
   },
   {
     "id": 4823,
@@ -2598,7 +2590,7 @@
   {
     "id": 1546,
     "name": "Angus Brendan MacNeil",
-    "party": "Scottish National Party",
+    "party": "Independent",
     "constituency": "Na h-Eileanan an Iar",
     "twitterUsername": "angusmacneilsnp"
   },
@@ -2677,6 +2669,13 @@
     "party": "Sinn Féin",
     "constituency": "Belfast West",
     "twitterUsername": "PaulMaskeyMP"
+  },
+  {
+    "id": 4993,
+    "name": "Keir Mather",
+    "party": "Labour",
+    "constituency": "Selby and Ainsty",
+    "twitterUsername": "Mather_Keir"
   },
   {
     "id": 8,
@@ -3303,13 +3302,6 @@
     "twitterUsername": "CPhilpOfficial"
   },
   {
-    "id": 4075,
-    "name": "Christopher Pincher",
-    "party": "Independent",
-    "constituency": "Tamworth",
-    "twitterUsername": "ChrisPincher"
-  },
-  {
     "id": 4682,
     "name": "Luke Pollard",
     "party": "Labour (Co-op)",
@@ -3918,7 +3910,7 @@
     "name": "Sir Robert Syms",
     "party": "Conservative",
     "constituency": "Poole",
-    "twitterUsername": "robertsymsMP"
+    "twitterUsername": "robertsyms"
   },
   {
     "id": 1383,
@@ -4056,6 +4048,13 @@
     "party": "Conservative",
     "constituency": "South West Norfolk",
     "twitterUsername": "trussliz"
+  },
+  {
+    "id": 4994,
+    "name": "Steve Tuckwell",
+    "party": "Conservative",
+    "constituency": "Uxbridge and South Ruislip",
+    "twitterUsername": "tuckwell_steve"
   },
   {
     "id": 4462,
