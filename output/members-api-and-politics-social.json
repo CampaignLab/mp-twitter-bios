@@ -346,14 +346,14 @@
   {
     "id": 104,
     "name": "Crispin Blunt",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Reigate",
     "twitterUsername": "CrispinBlunt"
   },
   {
     "id": 1581,
     "name": "Mr Peter Bone",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Wellingborough",
     "twitterUsername": "PeterBoneUK"
   },
@@ -602,7 +602,7 @@
   {
     "id": 4412,
     "name": "Dr Lisa Cameron",
-    "party": "Scottish National Party",
+    "party": "Conservative",
     "constituency": "East Kilbride, Strathaven and Lesmahagow",
     "twitterUsername": "DrLisaCameronMP"
   },
@@ -1219,7 +1219,8 @@
     "id": 4995,
     "name": "Sarah Dyke",
     "party": "Liberal Democrat",
-    "constituency": "Somerton and Frome"
+    "constituency": "Somerton and Frome",
+    "twitterUsername": "SarahDykeLD"
   },
   {
     "id": 491,
@@ -1261,6 +1262,12 @@
     "party": "Conservative",
     "constituency": "Rushcliffe",
     "twitterUsername": "RuthEdwardsMP"
+  },
+  {
+    "id": 5001,
+    "name": "Sarah Edwards",
+    "party": "Labour",
+    "constituency": "Tamworth"
   },
   {
     "id": 165,
@@ -2816,7 +2823,7 @@
   {
     "id": 4269,
     "name": "Andy McDonald",
-    "party": "Labour",
+    "party": "Independent",
     "constituency": "Middlesbrough",
     "twitterUsername": "AndyMcDonaldMP"
   },
@@ -3689,6 +3696,13 @@
     "twitterUsername": "nazshahbfd"
   },
   {
+    "id": 4998,
+    "name": "Michael Shanks",
+    "party": "Labour",
+    "constituency": "Rutherglen and Hamilton West",
+    "twitterUsername": "mgshanks"
+  },
+  {
     "id": 4131,
     "name": "Jim Shannon",
     "party": "Democratic Unionist Party",
@@ -3922,7 +3936,7 @@
   {
     "id": 3919,
     "name": "Bob Stewart",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Beckenham",
     "twitterUsername": "Bob4Beckenham"
   },
@@ -3939,6 +3953,12 @@
     "party": "Liberal Democrat",
     "constituency": "Caithness, Sutherland and Easter Ross",
     "twitterUsername": "Jamie4North"
+  },
+  {
+    "id": 5000,
+    "name": "Alistair Strathern",
+    "party": "Labour",
+    "constituency": "Mid Bedfordshire"
   },
   {
     "id": 234,

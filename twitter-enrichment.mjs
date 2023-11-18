@@ -2,17 +2,32 @@ import { chromium, errors } from 'playwright';
 import { createReadStream, mkdirSync, writeFileSync } from 'fs';
 
 function delay(time) {
-    return new Promise(function(resolve) { 
+    return new Promise(function (resolve) {
         setTimeout(resolve, time)
     });
- }
+}
+
+let browser;
+let page;
+
+async function newInstance() {
+    if (browser) {
+        await browser.close();
+    }
+
+    browser = await chromium.launch({
+        headless: false
+    });
+    const context = await browser.newContext();
+    page = await context.newPage();
+}
 
 (async () => {
     const startIndex = 0;
 
     const members = (await new Promise((resolve, reject) => {
         let resultsString = "";
-    
+
         createReadStream('output/members-api-and-politics-social.json')
             .on('data', (data) => resultsString += data)
             .on('end', () => {
@@ -23,11 +38,7 @@ function delay(time) {
             });
     })).slice(startIndex);
 
-    const browser = await chromium.launch({
-        headless: false
-    });
-    const context = await browser.newContext();
-    const page = await context.newPage();
+    await newInstance();
 
     let i = startIndex;
 
@@ -57,12 +68,12 @@ function delay(time) {
 
                 if (isFirstAttempt) {
                     console.log("Retrying unknown error", member.twitterUsername);
-                    await delay(5000);
+                    await newInstance();
                     return await attempt(member, false);
                 }
 
                 console.log("Already retried", member.twitterUsername)
-                return await new Promise(() => {});
+                return await new Promise(() => { });
             }
         }
         return json;
@@ -78,7 +89,7 @@ function delay(time) {
         console.log(i, member.twitterUsername);
 
         let json;
-        
+
         try {
             json = await attempt(member, true);
         } catch (error) {
@@ -92,6 +103,6 @@ function delay(time) {
         mkdirSync('output', { recursive: true });
         writeFileSync('output/members-api-and-pol-social-and-twitter.json', JSON.stringify(members, null, 2));
     }
-    
+
     browser.close()
 })();

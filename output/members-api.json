@@ -333,14 +333,14 @@
   {
     "id": 104,
     "name": "Crispin Blunt",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Reigate",
     "twitterUsername": "crispinbluntmp"
   },
   {
     "id": 1581,
     "name": "Mr Peter Bone",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Wellingborough",
     "twitterUsername": "PeterBoneMP"
   },
@@ -578,7 +578,7 @@
   {
     "id": 4412,
     "name": "Dr Lisa Cameron",
-    "party": "Scottish National Party",
+    "party": "Conservative",
     "constituency": "East Kilbride, Strathaven and Lesmahagow",
     "twitterUsername": "DrLisaCameronMP"
   },
@@ -1223,6 +1223,12 @@
     "name": "Ruth Edwards",
     "party": "Conservative",
     "constituency": "Rushcliffe"
+  },
+  {
+    "id": 5001,
+    "name": "Sarah Edwards",
+    "party": "Labour",
+    "constituency": "Tamworth"
   },
   {
     "id": 165,
@@ -2736,7 +2742,7 @@
   {
     "id": 4269,
     "name": "Andy McDonald",
-    "party": "Labour",
+    "party": "Independent",
     "constituency": "Middlesbrough",
     "twitterUsername": "AndyMcDonaldMP"
   },
@@ -3592,6 +3598,13 @@
     "twitterUsername": "nazshahbfd"
   },
   {
+    "id": 4998,
+    "name": "Michael Shanks",
+    "party": "Labour",
+    "constituency": "Rutherglen and Hamilton West",
+    "twitterUsername": "mgshanks"
+  },
+  {
     "id": 4131,
     "name": "Jim Shannon",
     "party": "Democratic Unionist Party",
@@ -3823,7 +3836,7 @@
   {
     "id": 3919,
     "name": "Bob Stewart",
-    "party": "Conservative",
+    "party": "Independent",
     "constituency": "Beckenham"
   },
   {
@@ -3838,6 +3851,12 @@
     "name": "Jamie Stone",
     "party": "Liberal Democrat",
     "constituency": "Caithness, Sutherland and Easter Ross"
+  },
+  {
+    "id": 5000,
+    "name": "Alistair Strathern",
+    "party": "Labour",
+    "constituency": "Mid Bedfordshire"
   },
   {
     "id": 234,
